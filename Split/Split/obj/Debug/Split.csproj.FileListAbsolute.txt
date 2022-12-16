@@ -1,0 +1,8 @@
+D:\C# Project\Split\Split\bin\Debug\Split.exe.config
+D:\C# Project\Split\Split\bin\Debug\Split.exe
+D:\C# Project\Split\Split\bin\Debug\Split.pdb
+D:\C# Project\Split\Split\obj\Debug\Split.csproj.AssemblyReference.cache
+D:\C# Project\Split\Split\obj\Debug\Split.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\Split\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+D:\C# Project\Split\Split\obj\Debug\Split.exe
+D:\C# Project\Split\Split\obj\Debug\Split.pdb
